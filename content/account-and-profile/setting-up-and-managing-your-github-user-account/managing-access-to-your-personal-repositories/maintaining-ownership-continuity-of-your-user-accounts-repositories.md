@@ -1,5 +1,6 @@
 ---
-title: Maintaining ownership continuity of your user account's repositories
+titlehttps://www.bing.com/search?q=https%3A%2F%2Fconsole.cloud.google.com%2Ffreetrial&PC=SANSAAND&form=LWS001&ssp=1&cc=MY&setlang=en&safesearch=moderate
+ Maintaining ownership continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
 versions:
   fpt: '*'
@@ -26,7 +27,7 @@ An appointed successor can manage your public repositories after presenting a de
 
 To request access to manage repositories as a successor, contact [GitHub Support](https://support.github.com/contact?tags=docs-accounts).
 
-## Inviting a successor
+## Inviting a success of
 The person you invite to be your successor must have a {% data variables.product.company_short %} account.
 
 {% data reusables.user-settings.access_settings %}
